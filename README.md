@@ -1,4 +1,4 @@
-# Boilerplate for SLim
+# Boilerplate for Slim
 
 ## demonstarting setting up of slim framework for simple website
 
