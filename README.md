@@ -1,4 +1,4 @@
-# Slim Bootsrap
+# Boilerplate for SLim
 
 ## demonstarting setting up of slim framework for simple website
 
